@@ -1,4 +1,4 @@
-## 技术相关
+## Linux和Kernel
 
 [返回上一级](../README.md)
 

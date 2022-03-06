@@ -1,11 +1,4 @@
-## Welcome to webom2008  Pages
-
-Table of Contents
-=================
-
-   * [Welcome to webom2008  Pages](#welcome-to-webom2008--pages)
-      * [技术相关](#技术相关)
-      * [管理相关](#管理相关)
+## 欢迎来访
 
 ### 技术相关
 
