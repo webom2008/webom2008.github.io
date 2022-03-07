@@ -152,4 +152,9 @@ endif
 
 $(function() { setTimeout(function () { var mathcodeList = document.querySelectorAll('.htmledit\_views img.mathcode'); if (mathcodeList.length > 0) { var testImg = new Image(); testImg.onerror = function () { mathcodeList.forEach(function (item) { $(item).before('<span class="img-codecogs">\\\\(' + item.alt + '\\\\)</span>'); $(item).remove(); }) MathJax.Hub.Queue(\["Typeset",MathJax.Hub\]); } testImg.src = mathcodeList\[0\].src; } }, 1000) })
 
-[![](https://profile.csdnimg.cn/8/1/E/3_njuitjf)njuitjf](https://blog.csdn.net/njuitjf)
+
+[返回上一级](../README.md)
+
+[返回主目录](https://webom2008.github.io)
+
+
