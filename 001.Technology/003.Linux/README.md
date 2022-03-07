@@ -1,6 +1,6 @@
 ## Linux和Kernel
 
-[mod.c 是什么文件](./mod.c 是什么文件.md)
+[mod.c是什么文件](./mod.c 是什么文件.md)
 
 [返回上一级](../README.md)
 
